@@ -5,9 +5,7 @@ import React from "react";
 import axios from "axios";
 
 function App() {
- // test 240801 - - - -
-//djdjj.
-,
+
     const [data, setData] = React.useState([]);
 
     useState(function () {
