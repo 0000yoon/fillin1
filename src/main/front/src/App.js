@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 import BottomNavi from './components/BottomNavi';
 
 
+
 const AppContainer = styled.div`
   display: flex;
   flex-direction: column;
